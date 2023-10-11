@@ -1,11 +1,31 @@
 <h1>Hi, I'm Bryce! </h1>
 
-<h2>👨‍💻 Coding Projects:</h2>
+<h2>👨‍💻 School Coding Projects:</h2>
 
 - [Turtle-Graphics-C++](https://github.com/MrBHerring/Turtle-Graphics-C-Plus-Plus)
 
 - [User-Interface-Chocoholics-Anonymous](https://github.com/MrBHerring/User-Interface-Chocoholics-Anonymous)
 
+- [Development-of-Drone-Flight-Control-in-Simulation-with-Physical-Testing](https://github.com/MrBHerring/Development-of-Drone-Flight-Control-in-Simulation-with-Physical-Testing)
+
+<br>
+
+<h2>👨‍💻 Personal Projects:</h2>
+
+
+<br>
+<h2>👨‍💻 Practice Projects:</h2>
+
+
+
+
+
+
+
+
+<!--
+
+<h2>👨‍💻 Coding Projects:</h2>
 
 
 <h2> Certifications</h2>
@@ -28,6 +48,8 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
+-->
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
