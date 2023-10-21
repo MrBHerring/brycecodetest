@@ -10,11 +10,11 @@
 
 <br>
 
-<h2>👨‍💻 Personal Projects:</h2>
+<h2>📓 Personal Projects:</h2>
 
 
 <br>
-<h2>👨‍💻 Practice Projects:</h2>
+<h2>📒 Practice Projects:</h2>
 
 
 
