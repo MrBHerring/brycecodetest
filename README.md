@@ -14,8 +14,14 @@
 
 
 <br>
+
 <h2>📒 Practice Projects:</h2>
 
+- [Detecting-Fake-News-with-Python](https://github.com/MrBHerring/Detecting-Fake-News-with-Python)
+
+- [ML-Credit-Card-Fraud-Detection](https://github.com/MrBHerring/ML-Credit-Card-Fraud-Detection)
+
+- [ML-Wine-Quality-Prediction](https://github.com/MrBHerring/ML-Wine-Quality-Prediction)
 
 
 
