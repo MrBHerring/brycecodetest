@@ -28,6 +28,8 @@
 
 - [ML-Wine-Quality-Prediction](https://github.com/MrBHerring/ML-Wine-Quality-Prediction)
 
+- [Disease Prediction Using Machine Learning](https://github.com/MrBHerring/Disease-Prediction-Using-Machine-Learning)
+
 
 
 
