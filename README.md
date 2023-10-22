@@ -8,6 +8,11 @@
 
 - [Development-of-Drone-Flight-Control-in-Simulation-with-Physical-Testing](https://github.com/MrBHerring/Development-of-Drone-Flight-Control-in-Simulation-with-Physical-Testing)
 
+- [Generating Statistics on police violence shootings with Python](https://github.com/MrBHerring/-Semester-long-Projects-Part-1)
+
+- [Crime classification with Python](https://github.com/MrBHerring/-Semester-long-Projects-Part-2)
+
+
 <br>
 
 <h2>📓 Personal Projects:</h2>
