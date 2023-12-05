@@ -12,6 +12,7 @@
 
 - [Crime classification with Python](https://github.com/MrBHerring/-Semester-long-Projects-Part-2)
 
+- [Project Version Control with Git](https://github.com/MrBHerring/Project1AndGit)
 
 <br>
 
