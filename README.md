@@ -14,7 +14,7 @@
 
 - [Project Version Control with Git](https://github.com/MrBHerring/Project1AndGit)
 
-- [Processing images using deepface](https://github.com/MrBHerring/FaceImages)
+- [Processing images using deepface](https://github.com/MrBHerring/Datathon)
 
 
 <br>
