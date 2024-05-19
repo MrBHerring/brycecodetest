@@ -21,7 +21,7 @@
 
 <h2>📓 Personal Projects:</h2>
 
-- [Creating-a-biblical-eschatology-website](https://github.com/MrBHerring/7Churches)
+- [Website-of-the-7Churches](https://github.com/MrBHerring/7Churches)
 
 
 <br>
