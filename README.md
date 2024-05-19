@@ -16,6 +16,9 @@
 
 - [Processing images using deepface](https://github.com/MrBHerring/Datathon)
 
+- [Music Recommender System](https://github.com/MrBHerring/MusicRecommenderSystem/tree/main)
+
+- [Raspberry Pi Security Alarm System](https://github.com/MrBHerring/Raspberry-Pi-Security-Alarm-System)
 
 <br>
 
