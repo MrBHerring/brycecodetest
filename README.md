@@ -20,7 +20,9 @@
 <br>
 
 <h2>📓 Personal Projects:</h2>
-- [Creating a biblical eschatology website](https://github.com/MrBHerring/7Churches)
+
+- [Creating-a-biblical-eschatology-website](https://github.com/MrBHerring/7Churches)
+
 
 <br>
 
